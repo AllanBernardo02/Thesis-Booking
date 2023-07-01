@@ -1,0 +1,15 @@
+
+
+
+.details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.details-name {
+    border: 1px solid black;
+}
+
+.details-details {
+    border: 1px solid black;
+}

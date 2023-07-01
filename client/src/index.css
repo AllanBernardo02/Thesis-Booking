@@ -1,0 +1,19 @@
+.custom-bar-chart rect:nth-child(1) {
+    fill: #FF0000; /* Change the color of the first bar (Female) */
+  }
+  
+  .custom-bar-chart rect:nth-child(2) {
+    fill: #00FF00; /* Change the color of the second bar (Male) */
+  }
+  
+  .custom-bar-chart rect:nth-child(3) {
+    fill: #0000FF; /* Change the color of the third bar (Senior) */
+  }
+  
+  .custom-bar-chart rect:nth-child(4) {
+    fill: #FFFF00; /* Change the color of the fourth bar (Children) */
+  }
+
+  /* .haha {
+    color: red;
+  } */
